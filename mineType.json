@@ -1,0 +1,3323 @@
+{
+  "application/1d-interleaved-parityfec": null,
+  "application/3gpp-ims+xml": null,
+  "application/activemessage": null,
+  "application/andrew-inset": [
+    "ez"
+  ],
+  "application/applefile": null,
+  "application/applixware": [
+    "aw"
+  ],
+  "application/atom+xml": [
+    "atom"
+  ],
+  "application/atomcat+xml": [
+    "atomcat"
+  ],
+  "application/atomicmail": null,
+  "application/atomsvc+xml": [
+    "atomsvc"
+  ],
+  "application/auth-policy+xml": null,
+  "application/batch-smtp": null,
+  "application/beep+xml": null,
+  "application/calendar+xml": null,
+  "application/cals-1840": null,
+  "application/ccmp+xml": null,
+  "application/ccxml+xml": [
+    "ccxml"
+  ],
+  "application/cdmi-capability": [
+    "cdmia"
+  ],
+  "application/cdmi-container": [
+    "cdmic"
+  ],
+  "application/cdmi-domain": [
+    "cdmid"
+  ],
+  "application/cdmi-object": [
+    "cdmio"
+  ],
+  "application/cdmi-queue": [
+    "cdmiq"
+  ],
+  "application/cea-2018+xml": null,
+  "application/cellml+xml": null,
+  "application/cfw": null,
+  "application/cnrp+xml": null,
+  "application/commonground": null,
+  "application/conference-info+xml": null,
+  "application/cpl+xml": null,
+  "application/csta+xml": null,
+  "application/cstadata+xml": null,
+  "application/cu-seeme": [
+    "cu"
+  ],
+  "application/cybercash": null,
+  "application/davmount+xml": [
+    "davmount"
+  ],
+  "application/dca-rft": null,
+  "application/dec-dx": null,
+  "application/dialog-info+xml": null,
+  "application/dicom": null,
+  "application/dns": null,
+  "application/docbook+xml": [
+    "dbk"
+  ],
+  "application/dskpp+xml": null,
+  "application/dssc+der": [
+    "dssc"
+  ],
+  "application/dssc+xml": [
+    "xdssc"
+  ],
+  "application/dvcs": null,
+  "application/ecmascript": [
+    "ecma"
+  ],
+  "application/edi-consent": null,
+  "application/edi-x12": null,
+  "application/edifact": null,
+  "application/emma+xml": [
+    "emma"
+  ],
+  "application/epp+xml": null,
+  "application/epub+zip": [
+    "epub"
+  ],
+  "application/eshop": null,
+  "application/example": null,
+  "application/exi": [
+    "exi"
+  ],
+  "application/fastinfoset": null,
+  "application/fastsoap": null,
+  "application/fits": null,
+  "application/font-tdpfr": [
+    "pfr"
+  ],
+  "application/framework-attributes+xml": null,
+  "application/gml+xml": [
+    "gml"
+  ],
+  "application/gpx+xml": [
+    "gpx"
+  ],
+  "application/gxf": [
+    "gxf"
+  ],
+  "application/h224": null,
+  "application/held+xml": null,
+  "application/http": null,
+  "application/hyperstudio": [
+    "stk"
+  ],
+  "application/ibe-key-request+xml": null,
+  "application/ibe-pkg-reply+xml": null,
+  "application/ibe-pp-data": null,
+  "application/iges": null,
+  "application/im-iscomposing+xml": null,
+  "application/index": null,
+  "application/index.cmd": null,
+  "application/index.obj": null,
+  "application/index.response": null,
+  "application/index.vnd": null,
+  "application/inkml+xml": [
+    "ink",
+    "inkml"
+  ],
+  "application/iotp": null,
+  "application/ipfix": [
+    "ipfix"
+  ],
+  "application/ipp": null,
+  "application/isup": null,
+  "application/java-archive": [
+    "jar"
+  ],
+  "application/java-serialized-object": [
+    "ser"
+  ],
+  "application/java-vm": [
+    "class"
+  ],
+  "application/javascript": [
+    "js"
+  ],
+  "application/json": [
+    "json"
+  ],
+  "application/jsonml+json": [
+    "jsonml"
+  ],
+  "application/kpml-request+xml": null,
+  "application/kpml-response+xml": null,
+  "application/lost+xml": [
+    "lostxml"
+  ],
+  "application/mac-binhex40": [
+    "hqx"
+  ],
+  "application/mac-compactpro": [
+    "cpt"
+  ],
+  "application/macwriteii": null,
+  "application/mads+xml": [
+    "mads"
+  ],
+  "application/marc": [
+    "mrc"
+  ],
+  "application/marcxml+xml": [
+    "mrcx"
+  ],
+  "application/mathematica": [
+    "ma",
+    "nb",
+    "mb"
+  ],
+  "application/mathml-content+xml": null,
+  "application/mathml-presentation+xml": null,
+  "application/mathml+xml": [
+    "mathml"
+  ],
+  "application/mbms-associated-procedure-description+xml": null,
+  "application/mbms-deregister+xml": null,
+  "application/mbms-envelope+xml": null,
+  "application/mbms-msk+xml": null,
+  "application/mbms-msk-response+xml": null,
+  "application/mbms-protection-description+xml": null,
+  "application/mbms-reception-report+xml": null,
+  "application/mbms-register+xml": null,
+  "application/mbms-register-response+xml": null,
+  "application/mbms-user-service-description+xml": null,
+  "application/mbox": [
+    "mbox"
+  ],
+  "application/media_control+xml": null,
+  "application/mediaservercontrol+xml": [
+    "mscml"
+  ],
+  "application/metalink+xml": [
+    "metalink"
+  ],
+  "application/metalink4+xml": [
+    "meta4"
+  ],
+  "application/mets+xml": [
+    "mets"
+  ],
+  "application/mikey": null,
+  "application/mods+xml": [
+    "mods"
+  ],
+  "application/moss-keys": null,
+  "application/moss-signature": null,
+  "application/mosskey-data": null,
+  "application/mosskey-request": null,
+  "application/mp21": [
+    "m21",
+    "mp21"
+  ],
+  "application/mp4": [
+    "mp4s"
+  ],
+  "application/mpeg4-generic": null,
+  "application/mpeg4-iod": null,
+  "application/mpeg4-iod-xmt": null,
+  "application/msc-ivr+xml": null,
+  "application/msc-mixer+xml": null,
+  "application/msword": [
+    "doc",
+    "dot"
+  ],
+  "application/mxf": [
+    "mxf"
+  ],
+  "application/nasdata": null,
+  "application/news-checkgroups": null,
+  "application/news-groupinfo": null,
+  "application/news-transmission": null,
+  "application/nss": null,
+  "application/ocsp-request": null,
+  "application/ocsp-response": null,
+  "application/octet-stream": [
+    "bin",
+    "dms",
+    "lrf",
+    "mar",
+    "so",
+    "dist",
+    "distz",
+    "pkg",
+    "bpk",
+    "dump",
+    "elc",
+    "deploy"
+  ],
+  "application/oda": [
+    "oda"
+  ],
+  "application/oebps-package+xml": [
+    "opf"
+  ],
+  "application/ogg": [
+    "ogx"
+  ],
+  "application/omdoc+xml": [
+    "omdoc"
+  ],
+  "application/onenote": [
+    "onetoc",
+    "onetoc2",
+    "onetmp",
+    "onepkg"
+  ],
+  "application/oxps": [
+    "oxps"
+  ],
+  "application/parityfec": null,
+  "application/patch-ops-error+xml": [
+    "xer"
+  ],
+  "application/pdf": [
+    "pdf"
+  ],
+  "application/pgp-encrypted": [
+    "pgp"
+  ],
+  "application/pgp-keys": null,
+  "application/pgp-signature": [
+    "asc",
+    "sig"
+  ],
+  "application/pics-rules": [
+    "prf"
+  ],
+  "application/pidf+xml": null,
+  "application/pidf-diff+xml": null,
+  "application/pkcs10": [
+    "p10"
+  ],
+  "application/pkcs7-mime": [
+    "p7m",
+    "p7c"
+  ],
+  "application/pkcs7-signature": [
+    "p7s"
+  ],
+  "application/pkcs8": [
+    "p8"
+  ],
+  "application/pkix-attr-cert": [
+    "ac"
+  ],
+  "application/pkix-cert": [
+    "cer"
+  ],
+  "application/pkix-crl": [
+    "crl"
+  ],
+  "application/pkix-pkipath": [
+    "pkipath"
+  ],
+  "application/pkixcmp": [
+    "pki"
+  ],
+  "application/pls+xml": [
+    "pls"
+  ],
+  "application/poc-settings+xml": null,
+  "application/postscript": [
+    "ai",
+    "eps",
+    "ps"
+  ],
+  "application/prs.alvestrand.titrax-sheet": null,
+  "application/prs.cww": [
+    "cww"
+  ],
+  "application/prs.nprend": null,
+  "application/prs.plucker": null,
+  "application/prs.rdf-xml-crypt": null,
+  "application/prs.xsf+xml": null,
+  "application/pskc+xml": [
+    "pskcxml"
+  ],
+  "application/qsig": null,
+  "application/rdf+xml": [
+    "rdf"
+  ],
+  "application/reginfo+xml": [
+    "rif"
+  ],
+  "application/relax-ng-compact-syntax": [
+    "rnc"
+  ],
+  "application/remote-printing": null,
+  "application/resource-lists+xml": [
+    "rl"
+  ],
+  "application/resource-lists-diff+xml": [
+    "rld"
+  ],
+  "application/riscos": null,
+  "application/rlmi+xml": null,
+  "application/rls-services+xml": [
+    "rs"
+  ],
+  "application/rpki-ghostbusters": [
+    "gbr"
+  ],
+  "application/rpki-manifest": [
+    "mft"
+  ],
+  "application/rpki-roa": [
+    "roa"
+  ],
+  "application/rpki-updown": null,
+  "application/rsd+xml": [
+    "rsd"
+  ],
+  "application/rss+xml": [
+    "rss"
+  ],
+  "application/rtf": [
+    "rtf"
+  ],
+  "application/rtx": null,
+  "application/samlassertion+xml": null,
+  "application/samlmetadata+xml": null,
+  "application/sbml+xml": [
+    "sbml"
+  ],
+  "application/scvp-cv-request": [
+    "scq"
+  ],
+  "application/scvp-cv-response": [
+    "scs"
+  ],
+  "application/scvp-vp-request": [
+    "spq"
+  ],
+  "application/scvp-vp-response": [
+    "spp"
+  ],
+  "application/sdp": [
+    "sdp"
+  ],
+  "application/set-payment": null,
+  "application/set-payment-initiation": [
+    "setpay"
+  ],
+  "application/set-registration": null,
+  "application/set-registration-initiation": [
+    "setreg"
+  ],
+  "application/sgml": null,
+  "application/sgml-open-catalog": null,
+  "application/shf+xml": [
+    "shf"
+  ],
+  "application/sieve": null,
+  "application/simple-filter+xml": null,
+  "application/simple-message-summary": null,
+  "application/simplesymbolcontainer": null,
+  "application/slate": null,
+  "application/smil": null,
+  "application/smil+xml": [
+    "smi",
+    "smil"
+  ],
+  "application/soap+fastinfoset": null,
+  "application/soap+xml": null,
+  "application/sparql-query": [
+    "rq"
+  ],
+  "application/sparql-results+xml": [
+    "srx"
+  ],
+  "application/spirits-event+xml": null,
+  "application/srgs": [
+    "gram"
+  ],
+  "application/srgs+xml": [
+    "grxml"
+  ],
+  "application/sru+xml": [
+    "sru"
+  ],
+  "application/ssdl+xml": [
+    "ssdl"
+  ],
+  "application/ssml+xml": [
+    "ssml"
+  ],
+  "application/tamp-apex-update": null,
+  "application/tamp-apex-update-confirm": null,
+  "application/tamp-community-update": null,
+  "application/tamp-community-update-confirm": null,
+  "application/tamp-error": null,
+  "application/tamp-sequence-adjust": null,
+  "application/tamp-sequence-adjust-confirm": null,
+  "application/tamp-status-query": null,
+  "application/tamp-status-response": null,
+  "application/tamp-update": null,
+  "application/tamp-update-confirm": null,
+  "application/tei+xml": [
+    "tei",
+    "teicorpus"
+  ],
+  "application/thraud+xml": [
+    "tfi"
+  ],
+  "application/timestamp-query": null,
+  "application/timestamp-reply": null,
+  "application/timestamped-data": [
+    "tsd"
+  ],
+  "application/tve-trigger": null,
+  "application/ulpfec": null,
+  "application/vcard+xml": null,
+  "application/vemmi": null,
+  "application/vividence.scriptfile": null,
+  "application/vnd.3gpp.bsf+xml": null,
+  "application/vnd.3gpp.pic-bw-large": [
+    "plb"
+  ],
+  "application/vnd.3gpp.pic-bw-small": [
+    "psb"
+  ],
+  "application/vnd.3gpp.pic-bw-var": [
+    "pvb"
+  ],
+  "application/vnd.3gpp.sms": null,
+  "application/vnd.3gpp2.bcmcsinfo+xml": null,
+  "application/vnd.3gpp2.sms": null,
+  "application/vnd.3gpp2.tcap": [
+    "tcap"
+  ],
+  "application/vnd.3m.post-it-notes": [
+    "pwn"
+  ],
+  "application/vnd.accpac.simply.aso": [
+    "aso"
+  ],
+  "application/vnd.accpac.simply.imp": [
+    "imp"
+  ],
+  "application/vnd.acucobol": [
+    "acu"
+  ],
+  "application/vnd.acucorp": [
+    "atc",
+    "acutc"
+  ],
+  "application/vnd.adobe.air-application-installer-package+zip": [
+    "air"
+  ],
+  "application/vnd.adobe.formscentral.fcdt": [
+    "fcdt"
+  ],
+  "application/vnd.adobe.fxp": [
+    "fxp",
+    "fxpl"
+  ],
+  "application/vnd.adobe.partial-upload": null,
+  "application/vnd.adobe.xdp+xml": [
+    "xdp"
+  ],
+  "application/vnd.adobe.xfdf": [
+    "xfdf"
+  ],
+  "application/vnd.aether.imp": null,
+  "application/vnd.ah-barcode": null,
+  "application/vnd.ahead.space": [
+    "ahead"
+  ],
+  "application/vnd.airzip.filesecure.azf": [
+    "azf"
+  ],
+  "application/vnd.airzip.filesecure.azs": [
+    "azs"
+  ],
+  "application/vnd.amazon.ebook": [
+    "azw"
+  ],
+  "application/vnd.americandynamics.acc": [
+    "acc"
+  ],
+  "application/vnd.amiga.ami": [
+    "ami"
+  ],
+  "application/vnd.amundsen.maze+xml": null,
+  "application/vnd.android.package-archive": [
+    "apk"
+  ],
+  "application/vnd.anser-web-certificate-issue-initiation": [
+    "cii"
+  ],
+  "application/vnd.anser-web-funds-transfer-initiation": [
+    "fti"
+  ],
+  "application/vnd.antix.game-component": [
+    "atx"
+  ],
+  "application/vnd.apple.installer+xml": [
+    "mpkg"
+  ],
+  "application/vnd.apple.mpegurl": [
+    "m3u8"
+  ],
+  "application/vnd.arastra.swi": null,
+  "application/vnd.aristanetworks.swi": [
+    "swi"
+  ],
+  "application/vnd.astraea-software.iota": [
+    "iota"
+  ],
+  "application/vnd.audiograph": [
+    "aep"
+  ],
+  "application/vnd.autopackage": null,
+  "application/vnd.avistar+xml": null,
+  "application/vnd.blueice.multipass": [
+    "mpm"
+  ],
+  "application/vnd.bluetooth.ep.oob": null,
+  "application/vnd.bmi": [
+    "bmi"
+  ],
+  "application/vnd.businessobjects": [
+    "rep"
+  ],
+  "application/vnd.cab-jscript": null,
+  "application/vnd.canon-cpdl": null,
+  "application/vnd.canon-lips": null,
+  "application/vnd.cendio.thinlinc.clientconf": null,
+  "application/vnd.chemdraw+xml": [
+    "cdxml"
+  ],
+  "application/vnd.chipnuts.karaoke-mmd": [
+    "mmd"
+  ],
+  "application/vnd.cinderella": [
+    "cdy"
+  ],
+  "application/vnd.cirpack.isdn-ext": null,
+  "application/vnd.claymore": [
+    "cla"
+  ],
+  "application/vnd.cloanto.rp9": [
+    "rp9"
+  ],
+  "application/vnd.clonk.c4group": [
+    "c4g",
+    "c4d",
+    "c4f",
+    "c4p",
+    "c4u"
+  ],
+  "application/vnd.cluetrust.cartomobile-config": [
+    "c11amc"
+  ],
+  "application/vnd.cluetrust.cartomobile-config-pkg": [
+    "c11amz"
+  ],
+  "application/vnd.collection+json": null,
+  "application/vnd.commerce-battelle": null,
+  "application/vnd.commonspace": [
+    "csp"
+  ],
+  "application/vnd.contact.cmsg": [
+    "cdbcmsg"
+  ],
+  "application/vnd.cosmocaller": [
+    "cmc"
+  ],
+  "application/vnd.crick.clicker": [
+    "clkx"
+  ],
+  "application/vnd.crick.clicker.keyboard": [
+    "clkk"
+  ],
+  "application/vnd.crick.clicker.palette": [
+    "clkp"
+  ],
+  "application/vnd.crick.clicker.template": [
+    "clkt"
+  ],
+  "application/vnd.crick.clicker.wordbank": [
+    "clkw"
+  ],
+  "application/vnd.criticaltools.wbs+xml": [
+    "wbs"
+  ],
+  "application/vnd.ctc-posml": [
+    "pml"
+  ],
+  "application/vnd.ctct.ws+xml": null,
+  "application/vnd.cups-pdf": null,
+  "application/vnd.cups-postscript": null,
+  "application/vnd.cups-ppd": [
+    "ppd"
+  ],
+  "application/vnd.cups-raster": null,
+  "application/vnd.cups-raw": null,
+  "application/vnd.curl": null,
+  "application/vnd.curl.car": [
+    "car"
+  ],
+  "application/vnd.curl.pcurl": [
+    "pcurl"
+  ],
+  "application/vnd.cybank": null,
+  "application/vnd.dart": [
+    "dart"
+  ],
+  "application/vnd.data-vision.rdz": [
+    "rdz"
+  ],
+  "application/vnd.dece.data": [
+    "uvf",
+    "uvvf",
+    "uvd",
+    "uvvd"
+  ],
+  "application/vnd.dece.ttml+xml": [
+    "uvt",
+    "uvvt"
+  ],
+  "application/vnd.dece.unspecified": [
+    "uvx",
+    "uvvx"
+  ],
+  "application/vnd.dece.zip": [
+    "uvz",
+    "uvvz"
+  ],
+  "application/vnd.denovo.fcselayout-link": [
+    "fe_launch"
+  ],
+  "application/vnd.dir-bi.plate-dl-nosuffix": null,
+  "application/vnd.dna": [
+    "dna"
+  ],
+  "application/vnd.dolby.mlp": [
+    "mlp"
+  ],
+  "application/vnd.dolby.mobile.1": null,
+  "application/vnd.dolby.mobile.2": null,
+  "application/vnd.dpgraph": [
+    "dpg"
+  ],
+  "application/vnd.dreamfactory": [
+    "dfac"
+  ],
+  "application/vnd.ds-keypoint": [
+    "kpxx"
+  ],
+  "application/vnd.dvb.ait": [
+    "ait"
+  ],
+  "application/vnd.dvb.dvbj": null,
+  "application/vnd.dvb.esgcontainer": null,
+  "application/vnd.dvb.ipdcdftnotifaccess": null,
+  "application/vnd.dvb.ipdcesgaccess": null,
+  "application/vnd.dvb.ipdcesgaccess2": null,
+  "application/vnd.dvb.ipdcesgpdd": null,
+  "application/vnd.dvb.ipdcroaming": null,
+  "application/vnd.dvb.iptv.alfec-base": null,
+  "application/vnd.dvb.iptv.alfec-enhancement": null,
+  "application/vnd.dvb.notif-aggregate-root+xml": null,
+  "application/vnd.dvb.notif-container+xml": null,
+  "application/vnd.dvb.notif-generic+xml": null,
+  "application/vnd.dvb.notif-ia-msglist+xml": null,
+  "application/vnd.dvb.notif-ia-registration-request+xml": null,
+  "application/vnd.dvb.notif-ia-registration-response+xml": null,
+  "application/vnd.dvb.notif-init+xml": null,
+  "application/vnd.dvb.pfr": null,
+  "application/vnd.dvb.service": [
+    "svc"
+  ],
+  "application/vnd.dxr": null,
+  "application/vnd.dynageo": [
+    "geo"
+  ],
+  "application/vnd.easykaraoke.cdgdownload": null,
+  "application/vnd.ecdis-update": null,
+  "application/vnd.ecowin.chart": [
+    "mag"
+  ],
+  "application/vnd.ecowin.filerequest": null,
+  "application/vnd.ecowin.fileupdate": null,
+  "application/vnd.ecowin.series": null,
+  "application/vnd.ecowin.seriesrequest": null,
+  "application/vnd.ecowin.seriesupdate": null,
+  "application/vnd.emclient.accessrequest+xml": null,
+  "application/vnd.enliven": [
+    "nml"
+  ],
+  "application/vnd.eprints.data+xml": null,
+  "application/vnd.epson.esf": [
+    "esf"
+  ],
+  "application/vnd.epson.msf": [
+    "msf"
+  ],
+  "application/vnd.epson.quickanime": [
+    "qam"
+  ],
+  "application/vnd.epson.salt": [
+    "slt"
+  ],
+  "application/vnd.epson.ssf": [
+    "ssf"
+  ],
+  "application/vnd.ericsson.quickcall": null,
+  "application/vnd.eszigno3+xml": [
+    "es3",
+    "et3"
+  ],
+  "application/vnd.etsi.aoc+xml": null,
+  "application/vnd.etsi.cug+xml": null,
+  "application/vnd.etsi.iptvcommand+xml": null,
+  "application/vnd.etsi.iptvdiscovery+xml": null,
+  "application/vnd.etsi.iptvprofile+xml": null,
+  "application/vnd.etsi.iptvsad-bc+xml": null,
+  "application/vnd.etsi.iptvsad-cod+xml": null,
+  "application/vnd.etsi.iptvsad-npvr+xml": null,
+  "application/vnd.etsi.iptvservice+xml": null,
+  "application/vnd.etsi.iptvsync+xml": null,
+  "application/vnd.etsi.iptvueprofile+xml": null,
+  "application/vnd.etsi.mcid+xml": null,
+  "application/vnd.etsi.overload-control-policy-dataset+xml": null,
+  "application/vnd.etsi.sci+xml": null,
+  "application/vnd.etsi.simservs+xml": null,
+  "application/vnd.etsi.tsl+xml": null,
+  "application/vnd.etsi.tsl.der": null,
+  "application/vnd.eudora.data": null,
+  "application/vnd.ezpix-album": [
+    "ez2"
+  ],
+  "application/vnd.ezpix-package": [
+    "ez3"
+  ],
+  "application/vnd.f-secure.mobile": null,
+  "application/vnd.fdf": [
+    "fdf"
+  ],
+  "application/vnd.fdsn.mseed": [
+    "mseed"
+  ],
+  "application/vnd.fdsn.seed": [
+    "seed",
+    "dataless"
+  ],
+  "application/vnd.ffsns": null,
+  "application/vnd.fints": null,
+  "application/vnd.flographit": [
+    "gph"
+  ],
+  "application/vnd.fluxtime.clip": [
+    "ftc"
+  ],
+  "application/vnd.font-fontforge-sfd": null,
+  "application/vnd.framemaker": [
+    "fm",
+    "frame",
+    "maker",
+    "book"
+  ],
+  "application/vnd.frogans.fnc": [
+    "fnc"
+  ],
+  "application/vnd.frogans.ltf": [
+    "ltf"
+  ],
+  "application/vnd.fsc.weblaunch": [
+    "fsc"
+  ],
+  "application/vnd.fujitsu.oasys": [
+    "oas"
+  ],
+  "application/vnd.fujitsu.oasys2": [
+    "oa2"
+  ],
+  "application/vnd.fujitsu.oasys3": [
+    "oa3"
+  ],
+  "application/vnd.fujitsu.oasysgp": [
+    "fg5"
+  ],
+  "application/vnd.fujitsu.oasysprs": [
+    "bh2"
+  ],
+  "application/vnd.fujixerox.art-ex": null,
+  "application/vnd.fujixerox.art4": null,
+  "application/vnd.fujixerox.hbpl": null,
+  "application/vnd.fujixerox.ddd": [
+    "ddd"
+  ],
+  "application/vnd.fujixerox.docuworks": [
+    "xdw"
+  ],
+  "application/vnd.fujixerox.docuworks.binder": [
+    "xbd"
+  ],
+  "application/vnd.fut-misnet": null,
+  "application/vnd.fuzzysheet": [
+    "fzs"
+  ],
+  "application/vnd.genomatix.tuxedo": [
+    "txd"
+  ],
+  "application/vnd.geocube+xml": null,
+  "application/vnd.geogebra.file": [
+    "ggb"
+  ],
+  "application/vnd.geogebra.tool": [
+    "ggt"
+  ],
+  "application/vnd.geometry-explorer": [
+    "gex",
+    "gre"
+  ],
+  "application/vnd.geonext": [
+    "gxt"
+  ],
+  "application/vnd.geoplan": [
+    "g2w"
+  ],
+  "application/vnd.geospace": [
+    "g3w"
+  ],
+  "application/vnd.globalplatform.card-content-mgt": null,
+  "application/vnd.globalplatform.card-content-mgt-response": null,
+  "application/vnd.gmx": [
+    "gmx"
+  ],
+  "application/vnd.google-earth.kml+xml": [
+    "kml"
+  ],
+  "application/vnd.google-earth.kmz": [
+    "kmz"
+  ],
+  "application/vnd.grafeq": [
+    "gqf",
+    "gqs"
+  ],
+  "application/vnd.gridmp": null,
+  "application/vnd.groove-account": [
+    "gac"
+  ],
+  "application/vnd.groove-help": [
+    "ghf"
+  ],
+  "application/vnd.groove-identity-message": [
+    "gim"
+  ],
+  "application/vnd.groove-injector": [
+    "grv"
+  ],
+  "application/vnd.groove-tool-message": [
+    "gtm"
+  ],
+  "application/vnd.groove-tool-template": [
+    "tpl"
+  ],
+  "application/vnd.groove-vcard": [
+    "vcg"
+  ],
+  "application/vnd.hal+json": null,
+  "application/vnd.hal+xml": [
+    "hal"
+  ],
+  "application/vnd.handheld-entertainment+xml": [
+    "zmm"
+  ],
+  "application/vnd.hbci": [
+    "hbci"
+  ],
+  "application/vnd.hcl-bireports": null,
+  "application/vnd.hhe.lesson-player": [
+    "les"
+  ],
+  "application/vnd.hp-hpgl": [
+    "hpgl"
+  ],
+  "application/vnd.hp-hpid": [
+    "hpid"
+  ],
+  "application/vnd.hp-hps": [
+    "hps"
+  ],
+  "application/vnd.hp-jlyt": [
+    "jlt"
+  ],
+  "application/vnd.hp-pcl": [
+    "pcl"
+  ],
+  "application/vnd.hp-pclxl": [
+    "pclxl"
+  ],
+  "application/vnd.httphone": null,
+  "application/vnd.hydrostatix.sof-data": [
+    "sfd-hdstx"
+  ],
+  "application/vnd.hzn-3d-crossword": null,
+  "application/vnd.ibm.afplinedata": null,
+  "application/vnd.ibm.electronic-media": null,
+  "application/vnd.ibm.minipay": [
+    "mpy"
+  ],
+  "application/vnd.ibm.modcap": [
+    "afp",
+    "listafp",
+    "list3820"
+  ],
+  "application/vnd.ibm.rights-management": [
+    "irm"
+  ],
+  "application/vnd.ibm.secure-container": [
+    "sc"
+  ],
+  "application/vnd.iccprofile": [
+    "icc",
+    "icm"
+  ],
+  "application/vnd.igloader": [
+    "igl"
+  ],
+  "application/vnd.immervision-ivp": [
+    "ivp"
+  ],
+  "application/vnd.immervision-ivu": [
+    "ivu"
+  ],
+  "application/vnd.informedcontrol.rms+xml": null,
+  "application/vnd.informix-visionary": null,
+  "application/vnd.infotech.project": null,
+  "application/vnd.infotech.project+xml": null,
+  "application/vnd.innopath.wamp.notification": null,
+  "application/vnd.insors.igm": [
+    "igm"
+  ],
+  "application/vnd.intercon.formnet": [
+    "xpw",
+    "xpx"
+  ],
+  "application/vnd.intergeo": [
+    "i2g"
+  ],
+  "application/vnd.intertrust.digibox": null,
+  "application/vnd.intertrust.nncp": null,
+  "application/vnd.intu.qbo": [
+    "qbo"
+  ],
+  "application/vnd.intu.qfx": [
+    "qfx"
+  ],
+  "application/vnd.iptc.g2.conceptitem+xml": null,
+  "application/vnd.iptc.g2.knowledgeitem+xml": null,
+  "application/vnd.iptc.g2.newsitem+xml": null,
+  "application/vnd.iptc.g2.newsmessage+xml": null,
+  "application/vnd.iptc.g2.packageitem+xml": null,
+  "application/vnd.iptc.g2.planningitem+xml": null,
+  "application/vnd.ipunplugged.rcprofile": [
+    "rcprofile"
+  ],
+  "application/vnd.irepository.package+xml": [
+    "irp"
+  ],
+  "application/vnd.is-xpr": [
+    "xpr"
+  ],
+  "application/vnd.isac.fcs": [
+    "fcs"
+  ],
+  "application/vnd.jam": [
+    "jam"
+  ],
+  "application/vnd.japannet-directory-service": null,
+  "application/vnd.japannet-jpnstore-wakeup": null,
+  "application/vnd.japannet-payment-wakeup": null,
+  "application/vnd.japannet-registration": null,
+  "application/vnd.japannet-registration-wakeup": null,
+  "application/vnd.japannet-setstore-wakeup": null,
+  "application/vnd.japannet-verification": null,
+  "application/vnd.japannet-verification-wakeup": null,
+  "application/vnd.jcp.javame.midlet-rms": [
+    "rms"
+  ],
+  "application/vnd.jisp": [
+    "jisp"
+  ],
+  "application/vnd.joost.joda-archive": [
+    "joda"
+  ],
+  "application/vnd.kahootz": [
+    "ktz",
+    "ktr"
+  ],
+  "application/vnd.kde.karbon": [
+    "karbon"
+  ],
+  "application/vnd.kde.kchart": [
+    "chrt"
+  ],
+  "application/vnd.kde.kformula": [
+    "kfo"
+  ],
+  "application/vnd.kde.kivio": [
+    "flw"
+  ],
+  "application/vnd.kde.kontour": [
+    "kon"
+  ],
+  "application/vnd.kde.kpresenter": [
+    "kpr",
+    "kpt"
+  ],
+  "application/vnd.kde.kspread": [
+    "ksp"
+  ],
+  "application/vnd.kde.kword": [
+    "kwd",
+    "kwt"
+  ],
+  "application/vnd.kenameaapp": [
+    "htke"
+  ],
+  "application/vnd.kidspiration": [
+    "kia"
+  ],
+  "application/vnd.kinar": [
+    "kne",
+    "knp"
+  ],
+  "application/vnd.koan": [
+    "skp",
+    "skd",
+    "skt",
+    "skm"
+  ],
+  "application/vnd.kodak-descriptor": [
+    "sse"
+  ],
+  "application/vnd.las.las+xml": [
+    "lasxml"
+  ],
+  "application/vnd.liberty-request+xml": null,
+  "application/vnd.llamagraphics.life-balance.desktop": [
+    "lbd"
+  ],
+  "application/vnd.llamagraphics.life-balance.exchange+xml": [
+    "lbe"
+  ],
+  "application/vnd.lotus-1-2-3": [
+    "123"
+  ],
+  "application/vnd.lotus-approach": [
+    "apr"
+  ],
+  "application/vnd.lotus-freelance": [
+    "pre"
+  ],
+  "application/vnd.lotus-notes": [
+    "nsf"
+  ],
+  "application/vnd.lotus-organizer": [
+    "org"
+  ],
+  "application/vnd.lotus-screencam": [
+    "scm"
+  ],
+  "application/vnd.lotus-wordpro": [
+    "lwp"
+  ],
+  "application/vnd.macports.portpkg": [
+    "portpkg"
+  ],
+  "application/vnd.marlin.drm.actiontoken+xml": null,
+  "application/vnd.marlin.drm.conftoken+xml": null,
+  "application/vnd.marlin.drm.license+xml": null,
+  "application/vnd.marlin.drm.mdcf": null,
+  "application/vnd.mcd": [
+    "mcd"
+  ],
+  "application/vnd.medcalcdata": [
+    "mc1"
+  ],
+  "application/vnd.mediastation.cdkey": [
+    "cdkey"
+  ],
+  "application/vnd.meridian-slingshot": null,
+  "application/vnd.mfer": [
+    "mwf"
+  ],
+  "application/vnd.mfmp": [
+    "mfm"
+  ],
+  "application/vnd.micrografx.flo": [
+    "flo"
+  ],
+  "application/vnd.micrografx.igx": [
+    "igx"
+  ],
+  "application/vnd.mif": [
+    "mif"
+  ],
+  "application/vnd.minisoft-hp3000-save": null,
+  "application/vnd.mitsubishi.misty-guard.trustweb": null,
+  "application/vnd.mobius.daf": [
+    "daf"
+  ],
+  "application/vnd.mobius.dis": [
+    "dis"
+  ],
+  "application/vnd.mobius.mbk": [
+    "mbk"
+  ],
+  "application/vnd.mobius.mqy": [
+    "mqy"
+  ],
+  "application/vnd.mobius.msl": [
+    "msl"
+  ],
+  "application/vnd.mobius.plc": [
+    "plc"
+  ],
+  "application/vnd.mobius.txf": [
+    "txf"
+  ],
+  "application/vnd.mophun.application": [
+    "mpn"
+  ],
+  "application/vnd.mophun.certificate": [
+    "mpc"
+  ],
+  "application/vnd.motorola.flexsuite": null,
+  "application/vnd.motorola.flexsuite.adsi": null,
+  "application/vnd.motorola.flexsuite.fis": null,
+  "application/vnd.motorola.flexsuite.gotap": null,
+  "application/vnd.motorola.flexsuite.kmr": null,
+  "application/vnd.motorola.flexsuite.ttc": null,
+  "application/vnd.motorola.flexsuite.wem": null,
+  "application/vnd.motorola.iprm": null,
+  "application/vnd.mozilla.xul+xml": [
+    "xul"
+  ],
+  "application/vnd.ms-artgalry": [
+    "cil"
+  ],
+  "application/vnd.ms-asf": null,
+  "application/vnd.ms-cab-compressed": [
+    "cab"
+  ],
+  "application/vnd.ms-color.iccprofile": null,
+  "application/vnd.ms-excel": [
+    "xls",
+    "xlm",
+    "xla",
+    "xlc",
+    "xlt",
+    "xlw"
+  ],
+  "application/vnd.ms-excel.addin.macroenabled.12": [
+    "xlam"
+  ],
+  "application/vnd.ms-excel.sheet.binary.macroenabled.12": [
+    "xlsb"
+  ],
+  "application/vnd.ms-excel.sheet.macroenabled.12": [
+    "xlsm"
+  ],
+  "application/vnd.ms-excel.template.macroenabled.12": [
+    "xltm"
+  ],
+  "application/vnd.ms-fontobject": [
+    "eot"
+  ],
+  "application/vnd.ms-htmlhelp": [
+    "chm"
+  ],
+  "application/vnd.ms-ims": [
+    "ims"
+  ],
+  "application/vnd.ms-lrm": [
+    "lrm"
+  ],
+  "application/vnd.ms-office.activex+xml": null,
+  "application/vnd.ms-officetheme": [
+    "thmx"
+  ],
+  "application/vnd.ms-opentype": null,
+  "application/vnd.ms-package.obfuscated-opentype": null,
+  "application/vnd.ms-pki.seccat": [
+    "cat"
+  ],
+  "application/vnd.ms-pki.stl": [
+    "stl"
+  ],
+  "application/vnd.ms-playready.initiator+xml": null,
+  "application/vnd.ms-powerpoint": [
+    "ppt",
+    "pps",
+    "pot"
+  ],
+  "application/vnd.ms-powerpoint.addin.macroenabled.12": [
+    "ppam"
+  ],
+  "application/vnd.ms-powerpoint.presentation.macroenabled.12": [
+    "pptm"
+  ],
+  "application/vnd.ms-powerpoint.slide.macroenabled.12": [
+    "sldm"
+  ],
+  "application/vnd.ms-powerpoint.slideshow.macroenabled.12": [
+    "ppsm"
+  ],
+  "application/vnd.ms-powerpoint.template.macroenabled.12": [
+    "potm"
+  ],
+  "application/vnd.ms-printing.printticket+xml": null,
+  "application/vnd.ms-project": [
+    "mpp",
+    "mpt"
+  ],
+  "application/vnd.ms-tnef": null,
+  "application/vnd.ms-wmdrm.lic-chlg-req": null,
+  "application/vnd.ms-wmdrm.lic-resp": null,
+  "application/vnd.ms-wmdrm.meter-chlg-req": null,
+  "application/vnd.ms-wmdrm.meter-resp": null,
+  "application/vnd.ms-word.document.macroenabled.12": [
+    "docm"
+  ],
+  "application/vnd.ms-word.template.macroenabled.12": [
+    "dotm"
+  ],
+  "application/vnd.ms-works": [
+    "wps",
+    "wks",
+    "wcm",
+    "wdb"
+  ],
+  "application/vnd.ms-wpl": [
+    "wpl"
+  ],
+  "application/vnd.ms-xpsdocument": [
+    "xps"
+  ],
+  "application/vnd.mseq": [
+    "mseq"
+  ],
+  "application/vnd.msign": null,
+  "application/vnd.multiad.creator": null,
+  "application/vnd.multiad.creator.cif": null,
+  "application/vnd.music-niff": null,
+  "application/vnd.musician": [
+    "mus"
+  ],
+  "application/vnd.muvee.style": [
+    "msty"
+  ],
+  "application/vnd.mynfc": [
+    "taglet"
+  ],
+  "application/vnd.ncd.control": null,
+  "application/vnd.ncd.reference": null,
+  "application/vnd.nervana": null,
+  "application/vnd.netfpx": null,
+  "application/vnd.neurolanguage.nlu": [
+    "nlu"
+  ],
+  "application/vnd.nitf": [
+    "ntf",
+    "nitf"
+  ],
+  "application/vnd.noblenet-directory": [
+    "nnd"
+  ],
+  "application/vnd.noblenet-sealer": [
+    "nns"
+  ],
+  "application/vnd.noblenet-web": [
+    "nnw"
+  ],
+  "application/vnd.nokia.catalogs": null,
+  "application/vnd.nokia.conml+wbxml": null,
+  "application/vnd.nokia.conml+xml": null,
+  "application/vnd.nokia.isds-radio-presets": null,
+  "application/vnd.nokia.iptv.config+xml": null,
+  "application/vnd.nokia.landmark+wbxml": null,
+  "application/vnd.nokia.landmark+xml": null,
+  "application/vnd.nokia.landmarkcollection+xml": null,
+  "application/vnd.nokia.n-gage.ac+xml": null,
+  "application/vnd.nokia.n-gage.data": [
+    "ngdat"
+  ],
+  "application/vnd.nokia.n-gage.symbian.install": [
+    "n-gage"
+  ],
+  "application/vnd.nokia.ncd": null,
+  "application/vnd.nokia.pcd+wbxml": null,
+  "application/vnd.nokia.pcd+xml": null,
+  "application/vnd.nokia.radio-preset": [
+    "rpst"
+  ],
+  "application/vnd.nokia.radio-presets": [
+    "rpss"
+  ],
+  "application/vnd.novadigm.edm": [
+    "edm"
+  ],
+  "application/vnd.novadigm.edx": [
+    "edx"
+  ],
+  "application/vnd.novadigm.ext": [
+    "ext"
+  ],
+  "application/vnd.ntt-local.file-transfer": null,
+  "application/vnd.ntt-local.sip-ta_remote": null,
+  "application/vnd.ntt-local.sip-ta_tcp_stream": null,
+  "application/vnd.oasis.opendocument.chart": [
+    "odc"
+  ],
+  "application/vnd.oasis.opendocument.chart-template": [
+    "otc"
+  ],
+  "application/vnd.oasis.opendocument.database": [
+    "odb"
+  ],
+  "application/vnd.oasis.opendocument.formula": [
+    "odf"
+  ],
+  "application/vnd.oasis.opendocument.formula-template": [
+    "odft"
+  ],
+  "application/vnd.oasis.opendocument.graphics": [
+    "odg"
+  ],
+  "application/vnd.oasis.opendocument.graphics-template": [
+    "otg"
+  ],
+  "application/vnd.oasis.opendocument.image": [
+    "odi"
+  ],
+  "application/vnd.oasis.opendocument.image-template": [
+    "oti"
+  ],
+  "application/vnd.oasis.opendocument.presentation": [
+    "odp"
+  ],
+  "application/vnd.oasis.opendocument.presentation-template": [
+    "otp"
+  ],
+  "application/vnd.oasis.opendocument.spreadsheet": [
+    "ods"
+  ],
+  "application/vnd.oasis.opendocument.spreadsheet-template": [
+    "ots"
+  ],
+  "application/vnd.oasis.opendocument.text": [
+    "odt"
+  ],
+  "application/vnd.oasis.opendocument.text-master": [
+    "odm"
+  ],
+  "application/vnd.oasis.opendocument.text-template": [
+    "ott"
+  ],
+  "application/vnd.oasis.opendocument.text-web": [
+    "oth"
+  ],
+  "application/vnd.obn": null,
+  "application/vnd.oftn.l10n+json": null,
+  "application/vnd.oipf.contentaccessdownload+xml": null,
+  "application/vnd.oipf.contentaccessstreaming+xml": null,
+  "application/vnd.oipf.cspg-hexbinary": null,
+  "application/vnd.oipf.dae.svg+xml": null,
+  "application/vnd.oipf.dae.xhtml+xml": null,
+  "application/vnd.oipf.mippvcontrolmessage+xml": null,
+  "application/vnd.oipf.pae.gem": null,
+  "application/vnd.oipf.spdiscovery+xml": null,
+  "application/vnd.oipf.spdlist+xml": null,
+  "application/vnd.oipf.ueprofile+xml": null,
+  "application/vnd.oipf.userprofile+xml": null,
+  "application/vnd.olpc-sugar": [
+    "xo"
+  ],
+  "application/vnd.oma-scws-config": null,
+  "application/vnd.oma-scws-http-request": null,
+  "application/vnd.oma-scws-http-response": null,
+  "application/vnd.oma.bcast.associated-procedure-parameter+xml": null,
+  "application/vnd.oma.bcast.drm-trigger+xml": null,
+  "application/vnd.oma.bcast.imd+xml": null,
+  "application/vnd.oma.bcast.ltkm": null,
+  "application/vnd.oma.bcast.notification+xml": null,
+  "application/vnd.oma.bcast.provisioningtrigger": null,
+  "application/vnd.oma.bcast.sgboot": null,
+  "application/vnd.oma.bcast.sgdd+xml": null,
+  "application/vnd.oma.bcast.sgdu": null,
+  "application/vnd.oma.bcast.simple-symbol-container": null,
+  "application/vnd.oma.bcast.smartcard-trigger+xml": null,
+  "application/vnd.oma.bcast.sprov+xml": null,
+  "application/vnd.oma.bcast.stkm": null,
+  "application/vnd.oma.cab-address-book+xml": null,
+  "application/vnd.oma.cab-feature-handler+xml": null,
+  "application/vnd.oma.cab-pcc+xml": null,
+  "application/vnd.oma.cab-user-prefs+xml": null,
+  "application/vnd.oma.dcd": null,
+  "application/vnd.oma.dcdc": null,
+  "application/vnd.oma.dd2+xml": [
+    "dd2"
+  ],
+  "application/vnd.oma.drm.risd+xml": null,
+  "application/vnd.oma.group-usage-list+xml": null,
+  "application/vnd.oma.pal+xml": null,
+  "application/vnd.oma.poc.detailed-progress-report+xml": null,
+  "application/vnd.oma.poc.final-report+xml": null,
+  "application/vnd.oma.poc.groups+xml": null,
+  "application/vnd.oma.poc.invocation-descriptor+xml": null,
+  "application/vnd.oma.poc.optimized-progress-report+xml": null,
+  "application/vnd.oma.push": null,
+  "application/vnd.oma.scidm.messages+xml": null,
+  "application/vnd.oma.xcap-directory+xml": null,
+  "application/vnd.omads-email+xml": null,
+  "application/vnd.omads-file+xml": null,
+  "application/vnd.omads-folder+xml": null,
+  "application/vnd.omaloc-supl-init": null,
+  "application/vnd.openofficeorg.extension": [
+    "oxt"
+  ],
+  "application/vnd.openxmlformats-officedocument.custom-properties+xml": null,
+  "application/vnd.openxmlformats-officedocument.customxmlproperties+xml": null,
+  "application/vnd.openxmlformats-officedocument.drawing+xml": null,
+  "application/vnd.openxmlformats-officedocument.drawingml.chart+xml": null,
+  "application/vnd.openxmlformats-officedocument.drawingml.chartshapes+xml": null,
+  "application/vnd.openxmlformats-officedocument.drawingml.diagramcolors+xml": null,
+  "application/vnd.openxmlformats-officedocument.drawingml.diagramdata+xml": null,
+  "application/vnd.openxmlformats-officedocument.drawingml.diagramlayout+xml": null,
+  "application/vnd.openxmlformats-officedocument.drawingml.diagramstyle+xml": null,
+  "application/vnd.openxmlformats-officedocument.extended-properties+xml": null,
+  "application/vnd.openxmlformats-officedocument.presentationml.commentauthors+xml": null,
+  "application/vnd.openxmlformats-officedocument.presentationml.comments+xml": null,
+  "application/vnd.openxmlformats-officedocument.presentationml.handoutmaster+xml": null,
+  "application/vnd.openxmlformats-officedocument.presentationml.notesmaster+xml": null,
+  "application/vnd.openxmlformats-officedocument.presentationml.notesslide+xml": null,
+  "application/vnd.openxmlformats-officedocument.presentationml.presentation": [
+    "pptx"
+  ],
+  "application/vnd.openxmlformats-officedocument.presentationml.presentation.main+xml": null,
+  "application/vnd.openxmlformats-officedocument.presentationml.presprops+xml": null,
+  "application/vnd.openxmlformats-officedocument.presentationml.slide": [
+    "sldx"
+  ],
+  "application/vnd.openxmlformats-officedocument.presentationml.slide+xml": null,
+  "application/vnd.openxmlformats-officedocument.presentationml.slidelayout+xml": null,
+  "application/vnd.openxmlformats-officedocument.presentationml.slidemaster+xml": null,
+  "application/vnd.openxmlformats-officedocument.presentationml.slideshow": [
+    "ppsx"
+  ],
+  "application/vnd.openxmlformats-officedocument.presentationml.slideshow.main+xml": null,
+  "application/vnd.openxmlformats-officedocument.presentationml.slideupdateinfo+xml": null,
+  "application/vnd.openxmlformats-officedocument.presentationml.tablestyles+xml": null,
+  "application/vnd.openxmlformats-officedocument.presentationml.tags+xml": null,
+  "application/vnd.openxmlformats-officedocument.presentationml.template": [
+    "potx"
+  ],
+  "application/vnd.openxmlformats-officedocument.presentationml.template.main+xml": null,
+  "application/vnd.openxmlformats-officedocument.presentationml.viewprops+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.calcchain+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.chartsheet+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.comments+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.connections+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.dialogsheet+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.externallink+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.pivotcachedefinition+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.pivotcacherecords+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.pivottable+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.querytable+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.revisionheaders+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.revisionlog+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.sharedstrings+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet": [
+    "xlsx"
+  ],
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheetmetadata+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.table+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.tablesinglecells+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.template": [
+    "xltx"
+  ],
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.template.main+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.usernames+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.volatiledependencies+xml": null,
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml": null,
+  "application/vnd.openxmlformats-officedocument.theme+xml": null,
+  "application/vnd.openxmlformats-officedocument.themeoverride+xml": null,
+  "application/vnd.openxmlformats-officedocument.vmldrawing": null,
+  "application/vnd.openxmlformats-officedocument.wordprocessingml.comments+xml": null,
+  "application/vnd.openxmlformats-officedocument.wordprocessingml.document": [
+    "docx"
+  ],
+  "application/vnd.openxmlformats-officedocument.wordprocessingml.document.glossary+xml": null,
+  "application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml": null,
+  "application/vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml": null,
+  "application/vnd.openxmlformats-officedocument.wordprocessingml.fonttable+xml": null,
+  "application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml": null,
+  "application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml": null,
+  "application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml": null,
+  "application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml": null,
+  "application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml": null,
+  "application/vnd.openxmlformats-officedocument.wordprocessingml.template": [
+    "dotx"
+  ],
+  "application/vnd.openxmlformats-officedocument.wordprocessingml.template.main+xml": null,
+  "application/vnd.openxmlformats-officedocument.wordprocessingml.websettings+xml": null,
+  "application/vnd.openxmlformats-package.core-properties+xml": null,
+  "application/vnd.openxmlformats-package.digital-signature-xmlsignature+xml": null,
+  "application/vnd.openxmlformats-package.relationships+xml": null,
+  "application/vnd.quobject-quoxdocument": null,
+  "application/vnd.osa.netdeploy": null,
+  "application/vnd.osgeo.mapguide.package": [
+    "mgp"
+  ],
+  "application/vnd.osgi.bundle": null,
+  "application/vnd.osgi.dp": [
+    "dp"
+  ],
+  "application/vnd.osgi.subsystem": [
+    "esa"
+  ],
+  "application/vnd.otps.ct-kip+xml": null,
+  "application/vnd.palm": [
+    "pdb",
+    "pqa",
+    "oprc"
+  ],
+  "application/vnd.paos.xml": null,
+  "application/vnd.pawaafile": [
+    "paw"
+  ],
+  "application/vnd.pg.format": [
+    "str"
+  ],
+  "application/vnd.pg.osasli": [
+    "ei6"
+  ],
+  "application/vnd.piaccess.application-licence": null,
+  "application/vnd.picsel": [
+    "efif"
+  ],
+  "application/vnd.pmi.widget": [
+    "wg"
+  ],
+  "application/vnd.poc.group-advertisement+xml": null,
+  "application/vnd.pocketlearn": [
+    "plf"
+  ],
+  "application/vnd.powerbuilder6": [
+    "pbd"
+  ],
+  "application/vnd.powerbuilder6-s": null,
+  "application/vnd.powerbuilder7": null,
+  "application/vnd.powerbuilder7-s": null,
+  "application/vnd.powerbuilder75": null,
+  "application/vnd.powerbuilder75-s": null,
+  "application/vnd.preminet": null,
+  "application/vnd.previewsystems.box": [
+    "box"
+  ],
+  "application/vnd.proteus.magazine": [
+    "mgz"
+  ],
+  "application/vnd.publishare-delta-tree": [
+    "qps"
+  ],
+  "application/vnd.pvi.ptid1": [
+    "ptid"
+  ],
+  "application/vnd.pwg-multiplexed": null,
+  "application/vnd.pwg-xhtml-print+xml": null,
+  "application/vnd.qualcomm.brew-app-res": null,
+  "application/vnd.quark.quarkxpress": [
+    "qxd",
+    "qxt",
+    "qwd",
+    "qwt",
+    "qxl",
+    "qxb"
+  ],
+  "application/vnd.radisys.moml+xml": null,
+  "application/vnd.radisys.msml+xml": null,
+  "application/vnd.radisys.msml-audit+xml": null,
+  "application/vnd.radisys.msml-audit-conf+xml": null,
+  "application/vnd.radisys.msml-audit-conn+xml": null,
+  "application/vnd.radisys.msml-audit-dialog+xml": null,
+  "application/vnd.radisys.msml-audit-stream+xml": null,
+  "application/vnd.radisys.msml-conf+xml": null,
+  "application/vnd.radisys.msml-dialog+xml": null,
+  "application/vnd.radisys.msml-dialog-base+xml": null,
+  "application/vnd.radisys.msml-dialog-fax-detect+xml": null,
+  "application/vnd.radisys.msml-dialog-fax-sendrecv+xml": null,
+  "application/vnd.radisys.msml-dialog-group+xml": null,
+  "application/vnd.radisys.msml-dialog-speech+xml": null,
+  "application/vnd.radisys.msml-dialog-transform+xml": null,
+  "application/vnd.rainstor.data": null,
+  "application/vnd.rapid": null,
+  "application/vnd.realvnc.bed": [
+    "bed"
+  ],
+  "application/vnd.recordare.musicxml": [
+    "mxl"
+  ],
+  "application/vnd.recordare.musicxml+xml": [
+    "musicxml"
+  ],
+  "application/vnd.renlearn.rlprint": null,
+  "application/vnd.rig.cryptonote": [
+    "cryptonote"
+  ],
+  "application/vnd.rim.cod": [
+    "cod"
+  ],
+  "application/vnd.rn-realmedia": [
+    "rm"
+  ],
+  "application/vnd.rn-realmedia-vbr": [
+    "rmvb"
+  ],
+  "application/vnd.route66.link66+xml": [
+    "link66"
+  ],
+  "application/vnd.rs-274x": null,
+  "application/vnd.ruckus.download": null,
+  "application/vnd.s3sms": null,
+  "application/vnd.sailingtracker.track": [
+    "st"
+  ],
+  "application/vnd.sbm.cid": null,
+  "application/vnd.sbm.mid2": null,
+  "application/vnd.scribus": null,
+  "application/vnd.sealed.3df": null,
+  "application/vnd.sealed.csf": null,
+  "application/vnd.sealed.doc": null,
+  "application/vnd.sealed.eml": null,
+  "application/vnd.sealed.mht": null,
+  "application/vnd.sealed.net": null,
+  "application/vnd.sealed.ppt": null,
+  "application/vnd.sealed.tiff": null,
+  "application/vnd.sealed.xls": null,
+  "application/vnd.sealedmedia.softseal.html": null,
+  "application/vnd.sealedmedia.softseal.pdf": null,
+  "application/vnd.seemail": [
+    "see"
+  ],
+  "application/vnd.sema": [
+    "sema"
+  ],
+  "application/vnd.semd": [
+    "semd"
+  ],
+  "application/vnd.semf": [
+    "semf"
+  ],
+  "application/vnd.shana.informed.formdata": [
+    "ifm"
+  ],
+  "application/vnd.shana.informed.formtemplate": [
+    "itp"
+  ],
+  "application/vnd.shana.informed.interchange": [
+    "iif"
+  ],
+  "application/vnd.shana.informed.package": [
+    "ipk"
+  ],
+  "application/vnd.simtech-mindmapper": [
+    "twd",
+    "twds"
+  ],
+  "application/vnd.smaf": [
+    "mmf"
+  ],
+  "application/vnd.smart.notebook": null,
+  "application/vnd.smart.teacher": [
+    "teacher"
+  ],
+  "application/vnd.software602.filler.form+xml": null,
+  "application/vnd.software602.filler.form-xml-zip": null,
+  "application/vnd.solent.sdkm+xml": [
+    "sdkm",
+    "sdkd"
+  ],
+  "application/vnd.spotfire.dxp": [
+    "dxp"
+  ],
+  "application/vnd.spotfire.sfs": [
+    "sfs"
+  ],
+  "application/vnd.sss-cod": null,
+  "application/vnd.sss-dtf": null,
+  "application/vnd.sss-ntf": null,
+  "application/vnd.stardivision.calc": [
+    "sdc"
+  ],
+  "application/vnd.stardivision.draw": [
+    "sda"
+  ],
+  "application/vnd.stardivision.impress": [
+    "sdd"
+  ],
+  "application/vnd.stardivision.math": [
+    "smf"
+  ],
+  "application/vnd.stardivision.writer": [
+    "sdw",
+    "vor"
+  ],
+  "application/vnd.stardivision.writer-global": [
+    "sgl"
+  ],
+  "application/vnd.stepmania.package": [
+    "smzip"
+  ],
+  "application/vnd.stepmania.stepchart": [
+    "sm"
+  ],
+  "application/vnd.street-stream": null,
+  "application/vnd.sun.xml.calc": [
+    "sxc"
+  ],
+  "application/vnd.sun.xml.calc.template": [
+    "stc"
+  ],
+  "application/vnd.sun.xml.draw": [
+    "sxd"
+  ],
+  "application/vnd.sun.xml.draw.template": [
+    "std"
+  ],
+  "application/vnd.sun.xml.impress": [
+    "sxi"
+  ],
+  "application/vnd.sun.xml.impress.template": [
+    "sti"
+  ],
+  "application/vnd.sun.xml.math": [
+    "sxm"
+  ],
+  "application/vnd.sun.xml.writer": [
+    "sxw"
+  ],
+  "application/vnd.sun.xml.writer.global": [
+    "sxg"
+  ],
+  "application/vnd.sun.xml.writer.template": [
+    "stw"
+  ],
+  "application/vnd.sun.wadl+xml": null,
+  "application/vnd.sus-calendar": [
+    "sus",
+    "susp"
+  ],
+  "application/vnd.svd": [
+    "svd"
+  ],
+  "application/vnd.swiftview-ics": null,
+  "application/vnd.symbian.install": [
+    "sis",
+    "sisx"
+  ],
+  "application/vnd.syncml+xml": [
+    "xsm"
+  ],
+  "application/vnd.syncml.dm+wbxml": [
+    "bdm"
+  ],
+  "application/vnd.syncml.dm+xml": [
+    "xdm"
+  ],
+  "application/vnd.syncml.dm.notification": null,
+  "application/vnd.syncml.ds.notification": null,
+  "application/vnd.tao.intent-module-archive": [
+    "tao"
+  ],
+  "application/vnd.tcpdump.pcap": [
+    "pcap",
+    "cap",
+    "dmp"
+  ],
+  "application/vnd.tmobile-livetv": [
+    "tmo"
+  ],
+  "application/vnd.trid.tpt": [
+    "tpt"
+  ],
+  "application/vnd.triscape.mxs": [
+    "mxs"
+  ],
+  "application/vnd.trueapp": [
+    "tra"
+  ],
+  "application/vnd.truedoc": null,
+  "application/vnd.ubisoft.webplayer": null,
+  "application/vnd.ufdl": [
+    "ufd",
+    "ufdl"
+  ],
+  "application/vnd.uiq.theme": [
+    "utz"
+  ],
+  "application/vnd.umajin": [
+    "umj"
+  ],
+  "application/vnd.unity": [
+    "unityweb"
+  ],
+  "application/vnd.uoml+xml": [
+    "uoml"
+  ],
+  "application/vnd.uplanet.alert": null,
+  "application/vnd.uplanet.alert-wbxml": null,
+  "application/vnd.uplanet.bearer-choice": null,
+  "application/vnd.uplanet.bearer-choice-wbxml": null,
+  "application/vnd.uplanet.cacheop": null,
+  "application/vnd.uplanet.cacheop-wbxml": null,
+  "application/vnd.uplanet.channel": null,
+  "application/vnd.uplanet.channel-wbxml": null,
+  "application/vnd.uplanet.list": null,
+  "application/vnd.uplanet.list-wbxml": null,
+  "application/vnd.uplanet.listcmd": null,
+  "application/vnd.uplanet.listcmd-wbxml": null,
+  "application/vnd.uplanet.signal": null,
+  "application/vnd.vcx": [
+    "vcx"
+  ],
+  "application/vnd.vd-study": null,
+  "application/vnd.vectorworks": null,
+  "application/vnd.verimatrix.vcas": null,
+  "application/vnd.vidsoft.vidconference": null,
+  "application/vnd.visio": [
+    "vsd",
+    "vst",
+    "vss",
+    "vsw"
+  ],
+  "application/vnd.visionary": [
+    "vis"
+  ],
+  "application/vnd.vividence.scriptfile": null,
+  "application/vnd.vsf": [
+    "vsf"
+  ],
+  "application/vnd.wap.sic": null,
+  "application/vnd.wap.slc": null,
+  "application/vnd.wap.wbxml": [
+    "wbxml"
+  ],
+  "application/vnd.wap.wmlc": [
+    "wmlc"
+  ],
+  "application/vnd.wap.wmlscriptc": [
+    "wmlsc"
+  ],
+  "application/vnd.webturbo": [
+    "wtb"
+  ],
+  "application/vnd.wfa.wsc": null,
+  "application/vnd.wmc": null,
+  "application/vnd.wmf.bootstrap": null,
+  "application/vnd.wolfram.mathematica": null,
+  "application/vnd.wolfram.mathematica.package": null,
+  "application/vnd.wolfram.player": [
+    "nbp"
+  ],
+  "application/vnd.wordperfect": [
+    "wpd"
+  ],
+  "application/vnd.wqd": [
+    "wqd"
+  ],
+  "application/vnd.wrq-hp3000-labelled": null,
+  "application/vnd.wt.stf": [
+    "stf"
+  ],
+  "application/vnd.wv.csp+wbxml": null,
+  "application/vnd.wv.csp+xml": null,
+  "application/vnd.wv.ssp+xml": null,
+  "application/vnd.xara": [
+    "xar"
+  ],
+  "application/vnd.xfdl": [
+    "xfdl"
+  ],
+  "application/vnd.xfdl.webform": null,
+  "application/vnd.xmi+xml": null,
+  "application/vnd.xmpie.cpkg": null,
+  "application/vnd.xmpie.dpkg": null,
+  "application/vnd.xmpie.plan": null,
+  "application/vnd.xmpie.ppkg": null,
+  "application/vnd.xmpie.xlim": null,
+  "application/vnd.yamaha.hv-dic": [
+    "hvd"
+  ],
+  "application/vnd.yamaha.hv-script": [
+    "hvs"
+  ],
+  "application/vnd.yamaha.hv-voice": [
+    "hvp"
+  ],
+  "application/vnd.yamaha.openscoreformat": [
+    "osf"
+  ],
+  "application/vnd.yamaha.openscoreformat.osfpvg+xml": [
+    "osfpvg"
+  ],
+  "application/vnd.yamaha.remote-setup": null,
+  "application/vnd.yamaha.smaf-audio": [
+    "saf"
+  ],
+  "application/vnd.yamaha.smaf-phrase": [
+    "spf"
+  ],
+  "application/vnd.yamaha.through-ngn": null,
+  "application/vnd.yamaha.tunnel-udpencap": null,
+  "application/vnd.yellowriver-custom-menu": [
+    "cmp"
+  ],
+  "application/vnd.zul": [
+    "zir",
+    "zirz"
+  ],
+  "application/vnd.zzazz.deck+xml": [
+    "zaz"
+  ],
+  "application/voicexml+xml": [
+    "vxml"
+  ],
+  "application/vq-rtcpxr": null,
+  "application/watcherinfo+xml": null,
+  "application/whoispp-query": null,
+  "application/whoispp-response": null,
+  "application/widget": [
+    "wgt"
+  ],
+  "application/winhlp": [
+    "hlp"
+  ],
+  "application/wita": null,
+  "application/wordperfect5.1": null,
+  "application/wsdl+xml": [
+    "wsdl"
+  ],
+  "application/wspolicy+xml": [
+    "wspolicy"
+  ],
+  "application/x-7z-compressed": [
+    "7z"
+  ],
+  "application/x-abiword": [
+    "abw"
+  ],
+  "application/x-ace-compressed": [
+    "ace"
+  ],
+  "application/x-amf": null,
+  "application/x-apple-diskimage": [
+    "dmg"
+  ],
+  "application/x-authorware-bin": [
+    "aab",
+    "x32",
+    "u32",
+    "vox"
+  ],
+  "application/x-authorware-map": [
+    "aam"
+  ],
+  "application/x-authorware-seg": [
+    "aas"
+  ],
+  "application/x-bcpio": [
+    "bcpio"
+  ],
+  "application/x-bittorrent": [
+    "torrent"
+  ],
+  "application/x-blorb": [
+    "blb",
+    "blorb"
+  ],
+  "application/x-bzip": [
+    "bz"
+  ],
+  "application/x-bzip2": [
+    "bz2",
+    "boz"
+  ],
+  "application/x-cbr": [
+    "cbr",
+    "cba",
+    "cbt",
+    "cbz",
+    "cb7"
+  ],
+  "application/x-cdlink": [
+    "vcd"
+  ],
+  "application/x-cfs-compressed": [
+    "cfs"
+  ],
+  "application/x-chat": [
+    "chat"
+  ],
+  "application/x-chess-pgn": [
+    "pgn"
+  ],
+  "application/x-conference": [
+    "nsc"
+  ],
+  "application/x-compress": null,
+  "application/x-cpio": [
+    "cpio"
+  ],
+  "application/x-csh": [
+    "csh"
+  ],
+  "application/x-debian-package": [
+    "deb",
+    "udeb"
+  ],
+  "application/x-dgc-compressed": [
+    "dgc"
+  ],
+  "application/x-director": [
+    "dir",
+    "dcr",
+    "dxr",
+    "cst",
+    "cct",
+    "cxt",
+    "w3d",
+    "fgd",
+    "swa"
+  ],
+  "application/x-doom": [
+    "wad"
+  ],
+  "application/x-dtbncx+xml": [
+    "ncx"
+  ],
+  "application/x-dtbook+xml": [
+    "dtb"
+  ],
+  "application/x-dtbresource+xml": [
+    "res"
+  ],
+  "application/x-dvi": [
+    "dvi"
+  ],
+  "application/x-envoy": [
+    "evy"
+  ],
+  "application/x-eva": [
+    "eva"
+  ],
+  "application/x-font-bdf": [
+    "bdf"
+  ],
+  "application/x-font-dos": null,
+  "application/x-font-framemaker": null,
+  "application/x-font-ghostscript": [
+    "gsf"
+  ],
+  "application/x-font-libgrx": null,
+  "application/x-font-linux-psf": [
+    "psf"
+  ],
+  "application/x-font-otf": [
+    "otf"
+  ],
+  "application/x-font-pcf": [
+    "pcf"
+  ],
+  "application/x-font-snf": [
+    "snf"
+  ],
+  "application/x-font-speedo": null,
+  "application/x-font-sunos-news": null,
+  "application/x-font-ttf": [
+    "ttf",
+    "ttc"
+  ],
+  "application/x-font-type1": [
+    "pfa",
+    "pfb",
+    "pfm",
+    "afm"
+  ],
+  "application/x-font-woff": [
+    "woff"
+  ],
+  "application/x-font-vfont": null,
+  "application/x-freearc": [
+    "arc"
+  ],
+  "application/x-futuresplash": [
+    "spl"
+  ],
+  "application/x-gca-compressed": [
+    "gca"
+  ],
+  "application/x-glulx": [
+    "ulx"
+  ],
+  "application/x-gnumeric": [
+    "gnumeric"
+  ],
+  "application/x-gramps-xml": [
+    "gramps"
+  ],
+  "application/x-gtar": [
+    "gtar"
+  ],
+  "application/x-gzip": null,
+  "application/x-hdf": [
+    "hdf"
+  ],
+  "application/x-install-instructions": [
+    "install"
+  ],
+  "application/x-iso9660-image": [
+    "iso"
+  ],
+  "application/x-java-jnlp-file": [
+    "jnlp"
+  ],
+  "application/x-latex": [
+    "latex"
+  ],
+  "application/x-lzh-compressed": [
+    "lzh",
+    "lha"
+  ],
+  "application/x-mie": [
+    "mie"
+  ],
+  "application/x-mobipocket-ebook": [
+    "prc",
+    "mobi"
+  ],
+  "application/x-ms-application": [
+    "application"
+  ],
+  "application/x-ms-shortcut": [
+    "lnk"
+  ],
+  "application/x-ms-wmd": [
+    "wmd"
+  ],
+  "application/x-ms-wmz": [
+    "wmz"
+  ],
+  "application/x-ms-xbap": [
+    "xbap"
+  ],
+  "application/x-msaccess": [
+    "mdb"
+  ],
+  "application/x-msbinder": [
+    "obd"
+  ],
+  "application/x-mscardfile": [
+    "crd"
+  ],
+  "application/x-msclip": [
+    "clp"
+  ],
+  "application/x-msdownload": [
+    "exe",
+    "dll",
+    "com",
+    "bat",
+    "msi"
+  ],
+  "application/x-msmediaview": [
+    "mvb",
+    "m13",
+    "m14"
+  ],
+  "application/x-msmetafile": [
+    "wmf",
+    "wmz",
+    "emf",
+    "emz"
+  ],
+  "application/x-msmoney": [
+    "mny"
+  ],
+  "application/x-mspublisher": [
+    "pub"
+  ],
+  "application/x-msschedule": [
+    "scd"
+  ],
+  "application/x-msterminal": [
+    "trm"
+  ],
+  "application/x-mswrite": [
+    "wri"
+  ],
+  "application/x-netcdf": [
+    "nc",
+    "cdf"
+  ],
+  "application/x-nzb": [
+    "nzb"
+  ],
+  "application/x-pkcs12": [
+    "p12",
+    "pfx"
+  ],
+  "application/x-pkcs7-certificates": [
+    "p7b",
+    "spc"
+  ],
+  "application/x-pkcs7-certreqresp": [
+    "p7r"
+  ],
+  "application/x-rar-compressed": [
+    "rar"
+  ],
+  "application/x-research-info-systems": [
+    "ris"
+  ],
+  "application/x-sh": [
+    "sh"
+  ],
+  "application/x-shar": [
+    "shar"
+  ],
+  "application/x-shockwave-flash": [
+    "swf"
+  ],
+  "application/x-silverlight-app": [
+    "xap"
+  ],
+  "application/x-sql": [
+    "sql"
+  ],
+  "application/x-stuffit": [
+    "sit"
+  ],
+  "application/x-stuffitx": [
+    "sitx"
+  ],
+  "application/x-subrip": [
+    "srt"
+  ],
+  "application/x-sv4cpio": [
+    "sv4cpio"
+  ],
+  "application/x-sv4crc": [
+    "sv4crc"
+  ],
+  "application/x-t3vm-image": [
+    "t3"
+  ],
+  "application/x-tads": [
+    "gam"
+  ],
+  "application/x-tar": [
+    "tar"
+  ],
+  "application/x-tcl": [
+    "tcl"
+  ],
+  "application/x-tex": [
+    "tex"
+  ],
+  "application/x-tex-tfm": [
+    "tfm"
+  ],
+  "application/x-texinfo": [
+    "texinfo",
+    "texi"
+  ],
+  "application/x-tgif": [
+    "obj"
+  ],
+  "application/x-ustar": [
+    "ustar"
+  ],
+  "application/x-wais-source": [
+    "src"
+  ],
+  "application/x-x509-ca-cert": [
+    "der",
+    "crt"
+  ],
+  "application/x-xfig": [
+    "fig"
+  ],
+  "application/x-xliff+xml": [
+    "xlf"
+  ],
+  "application/x-xpinstall": [
+    "xpi"
+  ],
+  "application/x-xz": [
+    "xz"
+  ],
+  "application/x-zmachine": [
+    "z1",
+    "z2",
+    "z3",
+    "z4",
+    "z5",
+    "z6",
+    "z7",
+    "z8"
+  ],
+  "application/x400-bp": null,
+  "application/xaml+xml": [
+    "xaml"
+  ],
+  "application/xcap-att+xml": null,
+  "application/xcap-caps+xml": null,
+  "application/xcap-diff+xml": [
+    "xdf"
+  ],
+  "application/xcap-el+xml": null,
+  "application/xcap-error+xml": null,
+  "application/xcap-ns+xml": null,
+  "application/xcon-conference-info-diff+xml": null,
+  "application/xcon-conference-info+xml": null,
+  "application/xenc+xml": [
+    "xenc"
+  ],
+  "application/xhtml+xml": [
+    "xhtml",
+    "xht"
+  ],
+  "application/xhtml-voice+xml": null,
+  "application/xml": [
+    "xml",
+    "xsl"
+  ],
+  "application/xml-dtd": [
+    "dtd"
+  ],
+  "application/xml-external-parsed-entity": null,
+  "application/xmpp+xml": null,
+  "application/xop+xml": [
+    "xop"
+  ],
+  "application/xproc+xml": [
+    "xpl"
+  ],
+  "application/xslt+xml": [
+    "xslt"
+  ],
+  "application/xspf+xml": [
+    "xspf"
+  ],
+  "application/xv+xml": [
+    "mxml",
+    "xhvml",
+    "xvml",
+    "xvm"
+  ],
+  "application/yang": [
+    "yang"
+  ],
+  "application/yin+xml": [
+    "yin"
+  ],
+  "application/zip": [
+    "zip"
+  ],
+  "audio/1d-interleaved-parityfec": null,
+  "audio/32kadpcm": null,
+  "audio/3gpp": null,
+  "audio/3gpp2": null,
+  "audio/ac3": null,
+  "audio/adpcm": [
+    "adp"
+  ],
+  "audio/amr": null,
+  "audio/amr-wb": null,
+  "audio/amr-wb+": null,
+  "audio/asc": null,
+  "audio/atrac-advanced-lossless": null,
+  "audio/atrac-x": null,
+  "audio/atrac3": null,
+  "audio/basic": [
+    "au",
+    "snd"
+  ],
+  "audio/bv16": null,
+  "audio/bv32": null,
+  "audio/clearmode": null,
+  "audio/cn": null,
+  "audio/dat12": null,
+  "audio/dls": null,
+  "audio/dsr-es201108": null,
+  "audio/dsr-es202050": null,
+  "audio/dsr-es202211": null,
+  "audio/dsr-es202212": null,
+  "audio/dv": null,
+  "audio/dvi4": null,
+  "audio/eac3": null,
+  "audio/evrc": null,
+  "audio/evrc-qcp": null,
+  "audio/evrc0": null,
+  "audio/evrc1": null,
+  "audio/evrcb": null,
+  "audio/evrcb0": null,
+  "audio/evrcb1": null,
+  "audio/evrcwb": null,
+  "audio/evrcwb0": null,
+  "audio/evrcwb1": null,
+  "audio/example": null,
+  "audio/fwdred": null,
+  "audio/g719": null,
+  "audio/g722": null,
+  "audio/g7221": null,
+  "audio/g723": null,
+  "audio/g726-16": null,
+  "audio/g726-24": null,
+  "audio/g726-32": null,
+  "audio/g726-40": null,
+  "audio/g728": null,
+  "audio/g729": null,
+  "audio/g7291": null,
+  "audio/g729d": null,
+  "audio/g729e": null,
+  "audio/gsm": null,
+  "audio/gsm-efr": null,
+  "audio/gsm-hr-08": null,
+  "audio/ilbc": null,
+  "audio/ip-mr_v2.5": null,
+  "audio/isac": null,
+  "audio/l16": null,
+  "audio/l20": null,
+  "audio/l24": null,
+  "audio/l8": null,
+  "audio/lpc": null,
+  "audio/midi": [
+    "mid",
+    "midi",
+    "kar",
+    "rmi"
+  ],
+  "audio/mobile-xmf": null,
+  "audio/mp4": [
+    "mp4a"
+  ],
+  "audio/mp4a-latm": null,
+  "audio/mpa": null,
+  "audio/mpa-robust": null,
+  "audio/mpeg": [
+    "mpga",
+    "mp2",
+    "mp2a",
+    "mp3",
+    "m2a",
+    "m3a"
+  ],
+  "audio/mpeg4-generic": null,
+  "audio/musepack": null,
+  "audio/ogg": [
+    "oga",
+    "ogg",
+    "spx"
+  ],
+  "audio/opus": null,
+  "audio/parityfec": null,
+  "audio/pcma": null,
+  "audio/pcma-wb": null,
+  "audio/pcmu-wb": null,
+  "audio/pcmu": null,
+  "audio/prs.sid": null,
+  "audio/qcelp": null,
+  "audio/red": null,
+  "audio/rtp-enc-aescm128": null,
+  "audio/rtp-midi": null,
+  "audio/rtx": null,
+  "audio/s3m": [
+    "s3m"
+  ],
+  "audio/silk": [
+    "sil"
+  ],
+  "audio/smv": null,
+  "audio/smv0": null,
+  "audio/smv-qcp": null,
+  "audio/sp-midi": null,
+  "audio/speex": null,
+  "audio/t140c": null,
+  "audio/t38": null,
+  "audio/telephone-event": null,
+  "audio/tone": null,
+  "audio/uemclip": null,
+  "audio/ulpfec": null,
+  "audio/vdvi": null,
+  "audio/vmr-wb": null,
+  "audio/vnd.3gpp.iufp": null,
+  "audio/vnd.4sb": null,
+  "audio/vnd.audiokoz": null,
+  "audio/vnd.celp": null,
+  "audio/vnd.cisco.nse": null,
+  "audio/vnd.cmles.radio-events": null,
+  "audio/vnd.cns.anp1": null,
+  "audio/vnd.cns.inf1": null,
+  "audio/vnd.dece.audio": [
+    "uva",
+    "uvva"
+  ],
+  "audio/vnd.digital-winds": [
+    "eol"
+  ],
+  "audio/vnd.dlna.adts": null,
+  "audio/vnd.dolby.heaac.1": null,
+  "audio/vnd.dolby.heaac.2": null,
+  "audio/vnd.dolby.mlp": null,
+  "audio/vnd.dolby.mps": null,
+  "audio/vnd.dolby.pl2": null,
+  "audio/vnd.dolby.pl2x": null,
+  "audio/vnd.dolby.pl2z": null,
+  "audio/vnd.dolby.pulse.1": null,
+  "audio/vnd.dra": [
+    "dra"
+  ],
+  "audio/vnd.dts": [
+    "dts"
+  ],
+  "audio/vnd.dts.hd": [
+    "dtshd"
+  ],
+  "audio/vnd.dvb.file": null,
+  "audio/vnd.everad.plj": null,
+  "audio/vnd.hns.audio": null,
+  "audio/vnd.lucent.voice": [
+    "lvp"
+  ],
+  "audio/vnd.ms-playready.media.pya": [
+    "pya"
+  ],
+  "audio/vnd.nokia.mobile-xmf": null,
+  "audio/vnd.nortel.vbk": null,
+  "audio/vnd.nuera.ecelp4800": [
+    "ecelp4800"
+  ],
+  "audio/vnd.nuera.ecelp7470": [
+    "ecelp7470"
+  ],
+  "audio/vnd.nuera.ecelp9600": [
+    "ecelp9600"
+  ],
+  "audio/vnd.octel.sbc": null,
+  "audio/vnd.qcelp": null,
+  "audio/vnd.rhetorex.32kadpcm": null,
+  "audio/vnd.rip": [
+    "rip"
+  ],
+  "audio/vnd.sealedmedia.softseal.mpeg": null,
+  "audio/vnd.vmx.cvsd": null,
+  "audio/vorbis": null,
+  "audio/vorbis-config": null,
+  "audio/webm": [
+    "weba"
+  ],
+  "audio/x-aac": [
+    "aac"
+  ],
+  "audio/x-aiff": [
+    "aif",
+    "aiff",
+    "aifc"
+  ],
+  "audio/x-caf": [
+    "caf"
+  ],
+  "audio/x-flac": [
+    "flac"
+  ],
+  "audio/x-matroska": [
+    "mka"
+  ],
+  "audio/x-mpegurl": [
+    "m3u"
+  ],
+  "audio/x-ms-wax": [
+    "wax"
+  ],
+  "audio/x-ms-wma": [
+    "wma"
+  ],
+  "audio/x-pn-realaudio": [
+    "ram",
+    "ra"
+  ],
+  "audio/x-pn-realaudio-plugin": [
+    "rmp"
+  ],
+  "audio/x-tta": null,
+  "audio/x-wav": [
+    "wav"
+  ],
+  "audio/xm": [
+    "xm"
+  ],
+  "chemical/x-cdx": [
+    "cdx"
+  ],
+  "chemical/x-cif": [
+    "cif"
+  ],
+  "chemical/x-cmdf": [
+    "cmdf"
+  ],
+  "chemical/x-cml": [
+    "cml"
+  ],
+  "chemical/x-csml": [
+    "csml"
+  ],
+  "chemical/x-pdb": null,
+  "chemical/x-xyz": [
+    "xyz"
+  ],
+  "image/bmp": [
+    "bmp"
+  ],
+  "image/cgm": [
+    "cgm"
+  ],
+  "image/example": null,
+  "image/fits": null,
+  "image/g3fax": [
+    "g3"
+  ],
+  "image/gif": [
+    "gif"
+  ],
+  "image/ief": [
+    "ief"
+  ],
+  "image/jp2": null,
+  "image/jpeg": [
+    "jpeg",
+    "jpg",
+    "jpe"
+  ],
+  "image/jpm": null,
+  "image/jpx": null,
+  "image/ktx": [
+    "ktx"
+  ],
+  "image/naplps": null,
+  "image/png": [
+    "png"
+  ],
+  "image/prs.btif": [
+    "btif"
+  ],
+  "image/prs.pti": null,
+  "image/sgi": [
+    "sgi"
+  ],
+  "image/svg+xml": [
+    "svg",
+    "svgz"
+  ],
+  "image/t38": null,
+  "image/tiff": [
+    "tiff",
+    "tif"
+  ],
+  "image/tiff-fx": null,
+  "image/vnd.adobe.photoshop": [
+    "psd"
+  ],
+  "image/vnd.cns.inf2": null,
+  "image/vnd.dece.graphic": [
+    "uvi",
+    "uvvi",
+    "uvg",
+    "uvvg"
+  ],
+  "image/vnd.dvb.subtitle": [
+    "sub"
+  ],
+  "image/vnd.djvu": [
+    "djvu",
+    "djv"
+  ],
+  "image/vnd.dwg": [
+    "dwg"
+  ],
+  "image/vnd.dxf": [
+    "dxf"
+  ],
+  "image/vnd.fastbidsheet": [
+    "fbs"
+  ],
+  "image/vnd.fpx": [
+    "fpx"
+  ],
+  "image/vnd.fst": [
+    "fst"
+  ],
+  "image/vnd.fujixerox.edmics-mmr": [
+    "mmr"
+  ],
+  "image/vnd.fujixerox.edmics-rlc": [
+    "rlc"
+  ],
+  "image/vnd.globalgraphics.pgb": null,
+  "image/vnd.microsoft.icon": null,
+  "image/vnd.mix": null,
+  "image/vnd.ms-modi": [
+    "mdi"
+  ],
+  "image/vnd.ms-photo": [
+    "wdp"
+  ],
+  "image/vnd.net-fpx": [
+    "npx"
+  ],
+  "image/vnd.radiance": null,
+  "image/vnd.sealed.png": null,
+  "image/vnd.sealedmedia.softseal.gif": null,
+  "image/vnd.sealedmedia.softseal.jpg": null,
+  "image/vnd.svf": null,
+  "image/vnd.wap.wbmp": [
+    "wbmp"
+  ],
+  "image/vnd.xiff": [
+    "xif"
+  ],
+  "image/webp": [
+    "webp"
+  ],
+  "image/x-3ds": [
+    "3ds"
+  ],
+  "image/x-cmu-raster": [
+    "ras"
+  ],
+  "image/x-cmx": [
+    "cmx"
+  ],
+  "image/x-freehand": [
+    "fh",
+    "fhc",
+    "fh4",
+    "fh5",
+    "fh7"
+  ],
+  "image/x-icon": [
+    "ico"
+  ],
+  "image/x-mrsid-image": [
+    "sid"
+  ],
+  "image/x-pcx": [
+    "pcx"
+  ],
+  "image/x-pict": [
+    "pic",
+    "pct"
+  ],
+  "image/x-portable-anymap": [
+    "pnm"
+  ],
+  "image/x-portable-bitmap": [
+    "pbm"
+  ],
+  "image/x-portable-graymap": [
+    "pgm"
+  ],
+  "image/x-portable-pixmap": [
+    "ppm"
+  ],
+  "image/x-rgb": [
+    "rgb"
+  ],
+  "image/x-tga": [
+    "tga"
+  ],
+  "image/x-xbitmap": [
+    "xbm"
+  ],
+  "image/x-xpixmap": [
+    "xpm"
+  ],
+  "image/x-xwindowdump": [
+    "xwd"
+  ],
+  "message/cpim": null,
+  "message/delivery-status": null,
+  "message/disposition-notification": null,
+  "message/example": null,
+  "message/external-body": null,
+  "message/feedback-report": null,
+  "message/global": null,
+  "message/global-delivery-status": null,
+  "message/global-disposition-notification": null,
+  "message/global-headers": null,
+  "message/http": null,
+  "message/imdn+xml": null,
+  "message/news": null,
+  "message/partial": null,
+  "message/rfc822": [
+    "eml",
+    "mime"
+  ],
+  "message/s-http": null,
+  "message/sip": null,
+  "message/sipfrag": null,
+  "message/tracking-status": null,
+  "message/vnd.si.simp": null,
+  "model/example": null,
+  "model/iges": [
+    "igs",
+    "iges"
+  ],
+  "model/mesh": [
+    "msh",
+    "mesh",
+    "silo"
+  ],
+  "model/vnd.collada+xml": [
+    "dae"
+  ],
+  "model/vnd.dwf": [
+    "dwf"
+  ],
+  "model/vnd.flatland.3dml": null,
+  "model/vnd.gdl": [
+    "gdl"
+  ],
+  "model/vnd.gs-gdl": null,
+  "model/vnd.gs.gdl": null,
+  "model/vnd.gtw": [
+    "gtw"
+  ],
+  "model/vnd.moml+xml": null,
+  "model/vnd.mts": [
+    "mts"
+  ],
+  "model/vnd.parasolid.transmit.binary": null,
+  "model/vnd.parasolid.transmit.text": null,
+  "model/vnd.vtu": [
+    "vtu"
+  ],
+  "model/vrml": [
+    "wrl",
+    "vrml"
+  ],
+  "model/x3d+binary": [
+    "x3db",
+    "x3dbz"
+  ],
+  "model/x3d+vrml": [
+    "x3dv",
+    "x3dvz"
+  ],
+  "model/x3d+xml": [
+    "x3d",
+    "x3dz"
+  ],
+  "multipart/alternative": null,
+  "multipart/appledouble": null,
+  "multipart/byteranges": null,
+  "multipart/digest": null,
+  "multipart/encrypted": null,
+  "multipart/example": null,
+  "multipart/form-data": null,
+  "multipart/header-set": null,
+  "multipart/mixed": null,
+  "multipart/parallel": null,
+  "multipart/related": null,
+  "multipart/report": null,
+  "multipart/signed": null,
+  "multipart/voice-message": null,
+  "text/1d-interleaved-parityfec": null,
+  "text/cache-manifest": [
+    "appcache"
+  ],
+  "text/calendar": [
+    "ics",
+    "ifb"
+  ],
+  "text/css": [
+    "css"
+  ],
+  "text/csv": [
+    "csv"
+  ],
+  "text/directory": null,
+  "text/dns": null,
+  "text/ecmascript": null,
+  "text/enriched": null,
+  "text/example": null,
+  "text/fwdred": null,
+  "text/html": [
+    "html",
+    "htm"
+  ],
+  "text/javascript": null,
+  "text/n3": [
+    "n3"
+  ],
+  "text/parityfec": null,
+  "text/plain": [
+    "txt",
+    "text",
+    "conf",
+    "def",
+    "list",
+    "log",
+    "in"
+  ],
+  "text/prs.fallenstein.rst": null,
+  "text/prs.lines.tag": [
+    "dsc"
+  ],
+  "text/vnd.radisys.msml-basic-layout": null,
+  "text/red": null,
+  "text/rfc822-headers": null,
+  "text/richtext": [
+    "rtx"
+  ],
+  "text/rtf": null,
+  "text/rtp-enc-aescm128": null,
+  "text/rtx": null,
+  "text/sgml": [
+    "sgml",
+    "sgm"
+  ],
+  "text/t140": null,
+  "text/tab-separated-values": [
+    "tsv"
+  ],
+  "text/troff": [
+    "t",
+    "tr",
+    "roff",
+    "man",
+    "me",
+    "ms"
+  ],
+  "text/turtle": [
+    "ttl"
+  ],
+  "text/ulpfec": null,
+  "text/uri-list": [
+    "uri",
+    "uris",
+    "urls"
+  ],
+  "text/vcard": [
+    "vcard"
+  ],
+  "text/vnd.abc": null,
+  "text/vnd.curl": [
+    "curl"
+  ],
+  "text/vnd.curl.dcurl": [
+    "dcurl"
+  ],
+  "text/vnd.curl.scurl": [
+    "scurl"
+  ],
+  "text/vnd.curl.mcurl": [
+    "mcurl"
+  ],
+  "text/vnd.dmclientscript": null,
+  "text/vnd.dvb.subtitle": [
+    "sub"
+  ],
+  "text/vnd.esmertec.theme-descriptor": null,
+  "text/vnd.fly": [
+    "fly"
+  ],
+  "text/vnd.fmi.flexstor": [
+    "flx"
+  ],
+  "text/vnd.graphviz": [
+    "gv"
+  ],
+  "text/vnd.in3d.3dml": [
+    "3dml"
+  ],
+  "text/vnd.in3d.spot": [
+    "spot"
+  ],
+  "text/vnd.iptc.newsml": null,
+  "text/vnd.iptc.nitf": null,
+  "text/vnd.latex-z": null,
+  "text/vnd.motorola.reflex": null,
+  "text/vnd.ms-mediapackage": null,
+  "text/vnd.net2phone.commcenter.command": null,
+  "text/vnd.si.uricatalogue": null,
+  "text/vnd.sun.j2me.app-descriptor": [
+    "jad"
+  ],
+  "text/vnd.trolltech.linguist": null,
+  "text/vnd.wap.si": null,
+  "text/vnd.wap.sl": null,
+  "text/vnd.wap.wml": [
+    "wml"
+  ],
+  "text/vnd.wap.wmlscript": [
+    "wmls"
+  ],
+  "text/x-asm": [
+    "s",
+    "asm"
+  ],
+  "text/x-c": [
+    "c",
+    "cc",
+    "cxx",
+    "cpp",
+    "h",
+    "hh",
+    "dic"
+  ],
+  "text/x-fortran": [
+    "f",
+    "for",
+    "f77",
+    "f90"
+  ],
+  "text/x-java-source": [
+    "java"
+  ],
+  "text/x-opml": [
+    "opml"
+  ],
+  "text/x-pascal": [
+    "p",
+    "pas"
+  ],
+  "text/x-nfo": [
+    "nfo"
+  ],
+  "text/x-setext": [
+    "etx"
+  ],
+  "text/x-sfv": [
+    "sfv"
+  ],
+  "text/x-uuencode": [
+    "uu"
+  ],
+  "text/x-vcalendar": [
+    "vcs"
+  ],
+  "text/x-vcard": [
+    "vcf"
+  ],
+  "text/xml": null,
+  "text/xml-external-parsed-entity": null,
+  "video/1d-interleaved-parityfec": null,
+  "video/3gpp": [
+    "3gp"
+  ],
+  "video/3gpp-tt": null,
+  "video/3gpp2": [
+    "3g2"
+  ],
+  "video/bmpeg": null,
+  "video/bt656": null,
+  "video/celb": null,
+  "video/dv": null,
+  "video/example": null,
+  "video/h261": [
+    "h261"
+  ],
+  "video/h263": [
+    "h263"
+  ],
+  "video/h263-1998": null,
+  "video/h263-2000": null,
+  "video/h264": [
+    "h264"
+  ],
+  "video/h264-rcdo": null,
+  "video/h264-svc": null,
+  "video/jpeg": [
+    "jpgv"
+  ],
+  "video/jpeg2000": null,
+  "video/jpm": [
+    "jpm",
+    "jpgm"
+  ],
+  "video/mj2": [
+    "mj2",
+    "mjp2"
+  ],
+  "video/mp1s": null,
+  "video/mp2p": null,
+  "video/mp2t": null,
+  "video/mp4": [
+    "mp4",
+    "mp4v",
+    "mpg4"
+  ],
+  "video/mp4v-es": null,
+  "video/mpeg": [
+    "mpeg",
+    "mpg",
+    "mpe",
+    "m1v",
+    "m2v"
+  ],
+  "video/mpeg4-generic": null,
+  "video/mpv": null,
+  "video/nv": null,
+  "video/ogg": [
+    "ogv"
+  ],
+  "video/parityfec": null,
+  "video/pointer": null,
+  "video/quicktime": [
+    "qt",
+    "mov"
+  ],
+  "video/raw": null,
+  "video/rtp-enc-aescm128": null,
+  "video/rtx": null,
+  "video/smpte292m": null,
+  "video/ulpfec": null,
+  "video/vc1": null,
+  "video/vnd.cctv": null,
+  "video/vnd.dece.hd": [
+    "uvh",
+    "uvvh"
+  ],
+  "video/vnd.dece.mobile": [
+    "uvm",
+    "uvvm"
+  ],
+  "video/vnd.dece.mp4": null,
+  "video/vnd.dece.pd": [
+    "uvp",
+    "uvvp"
+  ],
+  "video/vnd.dece.sd": [
+    "uvs",
+    "uvvs"
+  ],
+  "video/vnd.dece.video": [
+    "uvv",
+    "uvvv"
+  ],
+  "video/vnd.directv.mpeg": null,
+  "video/vnd.directv.mpeg-tts": null,
+  "video/vnd.dlna.mpeg-tts": null,
+  "video/vnd.dvb.file": [
+    "dvb"
+  ],
+  "video/vnd.fvt": [
+    "fvt"
+  ],
+  "video/vnd.hns.video": null,
+  "video/vnd.iptvforum.1dparityfec-1010": null,
+  "video/vnd.iptvforum.1dparityfec-2005": null,
+  "video/vnd.iptvforum.2dparityfec-1010": null,
+  "video/vnd.iptvforum.2dparityfec-2005": null,
+  "video/vnd.iptvforum.ttsavc": null,
+  "video/vnd.iptvforum.ttsmpeg2": null,
+  "video/vnd.motorola.video": null,
+  "video/vnd.motorola.videop": null,
+  "video/vnd.mpegurl": [
+    "mxu",
+    "m4u"
+  ],
+  "video/vnd.ms-playready.media.pyv": [
+    "pyv"
+  ],
+  "video/vnd.nokia.interleaved-multimedia": null,
+  "video/vnd.nokia.videovoip": null,
+  "video/vnd.objectvideo": null,
+  "video/vnd.sealed.mpeg1": null,
+  "video/vnd.sealed.mpeg4": null,
+  "video/vnd.sealed.swf": null,
+  "video/vnd.sealedmedia.softseal.mov": null,
+  "video/vnd.uvvu.mp4": [
+    "uvu",
+    "uvvu"
+  ],
+  "video/vnd.vivo": [
+    "viv"
+  ],
+  "video/webm": [
+    "webm"
+  ],
+  "video/x-f4v": [
+    "f4v"
+  ],
+  "video/x-fli": [
+    "fli"
+  ],
+  "video/x-flv": [
+    "flv"
+  ],
+  "video/x-m4v": [
+    "m4v"
+  ],
+  "video/x-matroska": [
+    "mkv",
+    "mk3d",
+    "mks"
+  ],
+  "video/x-mng": [
+    "mng"
+  ],
+  "video/x-ms-asf": [
+    "asf",
+    "asx"
+  ],
+  "video/x-ms-vob": [
+    "vob"
+  ],
+  "video/x-ms-wm": [
+    "wm"
+  ],
+  "video/x-ms-wmv": [
+    "wmv"
+  ],
+  "video/x-ms-wmx": [
+    "wmx"
+  ],
+  "video/x-ms-wvx": [
+    "wvx"
+  ],
+  "video/x-msvideo": [
+    "avi"
+  ],
+  "video/x-sgi-movie": [
+    "movie"
+  ],
+  "video/x-smv": [
+    "smv"
+  ],
+  "x-conference/x-cooltalk": [
+    "ice"
+  ]
+}
